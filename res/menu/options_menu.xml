@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/guessing"
+          android:title="Guessing Game" />
+    <item android:id="@+id/Game_Place_Hold1"
+          android:title="Game Place Hold1"  />
+    <item android:id="@+id/Game_Place_Hold2"
+          android:title="Game Place Hold2" />
+    <item android:id="@+id/Game_Place_Hold3"
+          android:title="Game Place Hold3" />
+</menu>
